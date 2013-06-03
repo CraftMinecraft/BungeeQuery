@@ -1,0 +1,4 @@
+name: BungeeQuery
+main: net.craftminecraft.bungee.bungeequery.BungeeQuery
+version: 1.0.0-SNAPSHOT
+author: roblabla
